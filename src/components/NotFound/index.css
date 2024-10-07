@@ -1,0 +1,10 @@
+.not-found-con {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  background-color: #000000;
+  font-family: 'Roboto';
+  color: #ffffff;
+}
